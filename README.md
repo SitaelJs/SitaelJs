@@ -1,20 +1,22 @@
-<p align="center">### Hello, I,m Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-I'm Javascript software engineer 💻 currently looking for new expirience.
-
-I have a passion for JavaScript, teaching, React, and all kind of bots 
+<p align="center"> Hello, I,m Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>
 
 
+<p align="center">
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)</p>
 
-[LinkedIn 💼]()
+<p align="center">I'm Javascript software engineer 💻 currently looking for new expirience.</p>
+
+<p align="center">I have a passion for JavaScript, teaching, React, and all kind of bots </p>
+
+
+
+<p align="center">[LinkedIn 💼]()
 
 [Twitter 🐦]()
 
 [Website 🌍]()
 
-[Email 📬](mailto:klimanovfresh@gmail.com)
+[Email 📬](mailto:klimanovfresh@gmail.com)</p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SitaelJs/)](https://github.com/SitaelJs/) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SitaelJs/)](https://github.com/SitaelJs/) 
