@@ -8,7 +8,7 @@
 
 <p align="center">I have a passion for JavaScript, teaching, React, and all kind of bots </p>
 
-<div>
+<div align="center">
 
 [LinkedIn 💼]()
 
