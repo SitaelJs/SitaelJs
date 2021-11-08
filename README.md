@@ -10,7 +10,7 @@
 
 
 
-<p align="center">[LinkedIn 💼]()
+<p align="center">[LinkedIn 💼]() </p>
 
 [Twitter 🐦]()
 
