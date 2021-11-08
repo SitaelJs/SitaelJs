@@ -13,3 +13,6 @@ I have a passion for JavaScript, teaching, React, and all kind of bots
 [Website 🌍]()
 
 [Email 📬](mailto:klimanovfresh@gmail.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitaelJs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
