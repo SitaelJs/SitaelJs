@@ -8,7 +8,7 @@
 
 <p align="center">I have a passion for JavaScript, teaching, React, and all kind of bots </p>
 
-
+<div>
 
 [LinkedIn 💼]()
 
@@ -17,6 +17,7 @@
 [Website 🌍]()
 
 [Email 📬](mailto:klimanovfresh@gmail.com)</p>
+</div>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
