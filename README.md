@@ -72,7 +72,7 @@
 
   <div align="center">
     <h3> Contact Me </h3>
-    <a href="https://medium.com/@Sitael" target="_blank">
+    <a href="https://medium.com/Sitael" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
   </div>
